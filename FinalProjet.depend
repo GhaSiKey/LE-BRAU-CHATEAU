@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1572762535 source:c:\users\administrator\desktop\c++\finalprojet\main.cpp
+	"Projet.h"
+
+1572754855 c:\users\administrator\desktop\c++\finalprojet\projet.h
+	<windows.h>
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<ctime>
+
+1572803106 source:c:\users\administrator\desktop\c++\finalprojet\projet.cpp
+	<windows.h>
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"Projet.h"
+
